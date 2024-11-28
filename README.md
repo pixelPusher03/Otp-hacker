@@ -16,22 +16,22 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Wa+OPT+Hac
 ```bash
 > apt update
 ```
-```
+```bash
 > apt upgrade
 ````
-```
+```bash
 > pkg install python
 ```
-```
+```bash
 > pkg install git -y
 ```
+```bash
+> git clone https://github.com/pixelPusher03/Whatsapp-Hack
 ```
-> git clone https://github.com/thedeveloper03/WaHack
+```bash
+> cd Whatsapp-Hack
 ```
-```
-> cd WaHack
-```
-```
+```bash
 > python3 main.py
 ```
 
