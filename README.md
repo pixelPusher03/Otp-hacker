@@ -11,16 +11,27 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Wa+OPT+Hac
     </a>
 </p>
 
-#OTP Hacker Installation
+# OTP Hacker Installation
 
-# Installation via Termux
 ```bash
 > apt update
+```
+```
 > apt upgrade
+````
+```
 > pkg install python
+```
+```
 > pkg install git -y
+```
+```
 > git clone https://github.com/thedeveloper03/WaHack
+```
+```
 > cd WaHack
+```
+```
 > python3 main.py
 ```
 
