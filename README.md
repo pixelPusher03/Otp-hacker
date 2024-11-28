@@ -26,10 +26,10 @@ src="https://readme-typing-svg.herokuapp.com/?size=35&width=800&lines=Wa+OPT+Hac
 > pkg install git -y
 ```
 ```bash
-> git clone https://github.com/pixelPusher03/Whatsapp-Hack
+> git clone https://github.com/pixelPusher03/otp-Hacker
 ```
 ```bash
-> cd Whatsapp-Hack
+> cd otp-Hacker
 ```
 ```bash
 > python3 main.py
