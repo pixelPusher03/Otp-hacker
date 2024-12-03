@@ -15,7 +15,7 @@ def show_banner() :
     
     MADE BY THE DEVELOPER😠
     UPDATED 2023 VERSION 
- https://www.youtube.com/@smtechmods
+ https://www.youtube.com/@the_developer03
     
 CHECT FOR OTP IN Downloads/OTP/Docker
     ''')
